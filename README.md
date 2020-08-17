@@ -4,6 +4,8 @@
 
 Hi, I'm George, from 2016 to 2020 I was an apprentice software developer. In the first year I learnt the basics of software development and then for the last 3 years I worked for a team that is responsible for a payments system. Currently I am working on my bachelor in computer science.
 
+[My Stackoveflow](https://stackoverflow.com/users/10994912/lucifer-uchiha?tab=profile)
+
 <img align="right" width="300" alt="GIF" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" />
 
 **Languages and Tools:**  
