@@ -22,6 +22,6 @@ Hi, I'm George, from 2016 to 2020 I was an apprentice software developer. In the
 
 
 
-![LuciferUchiha's github stats](https://github-readme-stats.vercel.app/api?username=LuciferUchiha&theme=dark&show_icons=true&count_private=true)
+![LuciferUchiha's github stats](https://github-readme-stats.vercel.app/api?username=LuciferUchiha&show_icons=true&count_private=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferUchiha&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferUchiha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
