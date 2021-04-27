@@ -20,8 +20,4 @@ Hi, I'm George, from 2016 to 2020 I was an apprentice software developer. In the
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
-
-![LuciferUchiha's github stats](https://github-readme-stats.vercel.app/api?username=LuciferUchiha&show_icons=true&count_private=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferUchiha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](./github-metrics.svg)
