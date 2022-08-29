@@ -1,23 +1,24 @@
 ### Hi there 👋
 
-<br />
+I'm George. I have been actively coding since 2016. I started as an apprentice software developer and plan to graduate with a bachelor's degree in computer science in early 2023.
 
-Hi, I'm George, from 2016 to 2020 I was an apprentice software developer. In the first year I learnt the basics of software development and then for the last 3 years I worked for a team that is responsible for a payments system. Currently I am working on my bachelor in computer science.
+Early 2022 I started working on my personal website and digital garden, [georgerowlands.ch](https://github.com/LuciferUchiha/georgerowlands.ch). So far it has gone through two iterations:
 
-[My Stackoveflow](https://stackoverflow.com/users/10994912/lucifer-uchiha?tab=profile)
+- The first version was built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) because at the time I was using [Obsidian](https://obsidian.md/) for my Digital Garden.
+- The second and current version is built with [Docusaurus](https://docusaurus.io/) as it offers much more freedom and extendibility.
 
-<img align="right" width="300" alt="GIF" src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" />
+<!-- georgerlogowhite is light theme logo, georgerlogo is dark theme logo -->
+<a href="https://www.georgerowlands.ch">
+  <img src="https://custom-icon-badges.herokuapp.com/badge/-My_Website-7f39fb?style=for-the-badge&logo=georgerlogowhite&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/georgerowlands/">
+  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://stackoverflow.com/users/10994912/lucifer-uchiha">
+  <img src="https://img.shields.io/badge/stackoverflow-F48224.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
 
-**Languages and Tools:**  
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![Metrics](./github-metrics.svg)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuciferUchiha&theme=dark&hide_border=true">
+</div>
