@@ -6,6 +6,7 @@ Early 2022 I started working on my personal website and digital garden, [georger
 
 - The first version was built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) because at the time I was using [Obsidian](https://obsidian.md/) for my Digital Garden.
 - The second and current version is built with [Docusaurus](https://docusaurus.io/) as it offers much more freedom and extendibility.
+- Most recently the second version has been upgraded drastically by getting dockerized and receiving the ability to convert Jupyter Notebooks to markdown files.
 
 <!-- georgerlogowhite is light theme logo, georgerlogo is dark theme logo -->
 <a href="https://www.georgerowlands.ch">
