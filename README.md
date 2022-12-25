@@ -8,6 +8,8 @@ Early 2022 I started working on my personal website and digital garden, [georger
 - The second and current version is built with [Docusaurus](https://docusaurus.io/) as it offers much more freedom and extendibility.
 - Most recently the second version has been upgraded drastically by getting dockerized and receiving the ability to convert Jupyter Notebooks to markdown files.
 
+[viewCounter](https://count.getloli.com/get/@LuciferUchiha?theme=rule34)
+
 <!-- georgerlogowhite is light theme logo, georgerlogo is dark theme logo -->
 <a href="https://www.georgerowlands.ch">
   <img src="https://custom-icon-badges.herokuapp.com/badge/-My_Website-7f39fb?style=for-the-badge&logo=georgerlogowhite&logoColor=white"/>
